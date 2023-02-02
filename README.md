@@ -24,6 +24,11 @@ bitvector.reset(index)
 ## Indexes of elements of array
 | Element  | Index |
 | ------------- | ------------- |
-| elemen1  | 0  |
+| element1  | 0  |
 | element2  | 1  |
-| elements3 | 2 |
+| element3 | 2 |
+
+## Indexes of bits of elements
+| Element  | Index |
+| ------------- | ------------- |
+| element  | 64, 63, ..., 0 |
