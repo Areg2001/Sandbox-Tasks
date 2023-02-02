@@ -31,4 +31,4 @@ bitvector.reset(index)
 ## Indexes of bits of elements
 | Element  | Index |
 | ------------- | ------------- |
-| element  | 64, 63, ..., 0 |
+| element  | 63, 62, ..., 0 |
