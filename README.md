@@ -1,14 +1,14 @@
-#Installation
+# Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy.
 
 ```bash
 pip install numpy
 ```
-##BitVector
+## BitVector
 
 A data structure consisting of a collection of bits.
 
-##Usage
+## Usage
 
 ```python
 # create bitvector
