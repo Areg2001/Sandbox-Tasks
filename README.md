@@ -20,15 +20,3 @@ bitvector.set(index)
 # convert 1 -> 0
 bitvector.reset(index)
 ```
-
-## Indexes of elements of array
-| Element  | Index |
-| ------------- | ------------- |
-| element1  | 0  |
-| element2  | 1  |
-| element3 | 2 |
-
-## Indexes of bits of elements
-| Element  | Index |
-| ------------- | ------------- |
-| element  | 63, 62, ..., 0 |
