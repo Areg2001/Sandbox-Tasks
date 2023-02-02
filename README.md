@@ -11,8 +11,6 @@ A data structure consisting of a collection of bits.
 ##Usage
 
 ```python
-import numpy as np
-
 # create bitvector
 bitvector = BitVector(size)
 
