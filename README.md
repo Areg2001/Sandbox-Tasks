@@ -20,7 +20,10 @@ bitvector.set(index)
 # convert 1 -> 0
 bitvector.reset(index)
 ```
-| First Header  | Second Header |
+
+## Indexes of elements of array
+| Element  | Index |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| elemen1  | 0  |
+| element2  | 1  |
+| elements3 | 2 |
