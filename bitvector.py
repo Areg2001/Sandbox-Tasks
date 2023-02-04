@@ -21,4 +21,4 @@ class BitVector:
 
     def reset(self, index: int) -> None:
         array_index = index // 64
-        self.__array[self.__array.size - array_index - 1] &= np.uint64(0 << index % 64)
+        self.__array[self.__array.size - array_index - 1] ^= np.uint64(1 << index % 64)
